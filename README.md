@@ -3,6 +3,8 @@
 
 [![Join the chat at https://gitter.im/mcintyre321/mvc.jquery.datatables](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mcintyre321/mvc.jquery.datatables?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+*TODO: Update parameters to work with v1.10.19 of DataTables.Net*
+
 > Install-Package Mvc.JQuery.DataTables
 
 > Install-Package Mvc.JQuery.DataTables.Templates *
